@@ -136,7 +136,6 @@
 - Scott Phillips Trading Thread [link](https://x.com/ScottPh77711570/status/1777284341535818103)
 - Bitcoin, Currencies, and Fragility by Taleb [link](https://www.fooledbyrandomness.com/BTC-QF.pdf)
 - How blockchain takes us back to medieval times [link](https://www.ft.com/content/5ec32986-1872-3828-9f67-465019d97044)
-- 
 
 ## Biology
 - Memantine: a NMDA receptor antagonist that improves memory by restoration of homeostasis in the glutamatergic system - too little activation is bad, too much is even worse [link](https://www.sciencedirect.com/science/article/abs/pii/S0028390807002298?via%3Dihub)
