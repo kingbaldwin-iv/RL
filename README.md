@@ -41,7 +41,7 @@
 - MongoDB Features [link](https://www.mongodb.com/features) 
 - What is NoSQL? [link](https://www.mongodb.com/nosql-explained) 
 - Building with Patterns: The Polymorphic Pattern [link](https://www.mongodb.com/developer/products/mongodb/polymorphic-pattern/) 
-- Schema Design Anti Pattern Massive Arrays [link](https://www.mongodb.com/developer/products/mongodb/schema-design-anti-pattern-massive-arrays/?_ga=2.121458568.1860177452.1713925900-424936380.1713925900) ✅
+- Schema Design Anti Pattern Massive Arrays [link](https://www.mongodb.com/developer/products/mongodb/schema-design-anti-pattern-massive-arrays/?_ga=2.121458568.1860177452.1713925900-424936380.1713925900) 
 - Unstructured Data [link](https://www.mongodb.com/unstructured-data) 
 - Single View [link](https://www.mongodb.com/solutions/use-cases/single-view) 
 - Building with Patterns: The Attribute Pattern [link](https://www.mongodb.com/developer/products/mongodb/attribute-pattern/) 
@@ -76,7 +76,7 @@
 - Improving load balancing with a new consistent-hashing algorithm [link](https://medium.com/vimeo-engineering-blog/improving-load-balancing-with-a-new-consistent-hashing-algorithm-9f1bd75709ed)
 - Aaron Blog [link](https://spclr.ch)
 - SCION: A Secure Internet Architecture [link](SCION-book.pdf)
-- What is the Ethereum Virtual Machine (EVM) total computing power? [link](https://ethereum.stackexchange.com/questions/97798/what-is-the-ethereum-virtual-machine-evm-total-computing-power) ✅
+- What is the Ethereum Virtual Machine (EVM) total computing power? [link](https://ethereum.stackexchange.com/questions/97798/what-is-the-ethereum-virtual-machine-evm-total-computing-power) 
 - How system V ABI's red zone is implemented [link](https://stackoverflow.com/a/57466509)
 - Dynamic Programming in the Wild [link](https://lukas-moeller.ch/blog/dp-in-the-wild)
 - Bufferoverflows [link](https://www.spclr.ch/bufferoverflows)
