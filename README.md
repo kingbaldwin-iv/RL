@@ -113,6 +113,7 @@
 - The Thirty Million Line Problem [link](https://www.youtube.com/watch?v=kZRE7HIO3vk&pp=ygUXdGhlIHRoaXJ5IG1pbGxpb24gbGluZSA%3D)
 - Civilization: Institutions, Knowledge, and the Future [link](https://www.youtube.com/watch?v=ACdYmuFyjWM&pp=ygUzY2l2aWxpemF0aW9ucyBpbnN0aXR1dGlvbnMga25vd2xlZGdlIGFuZCB0aGUgZnV0dXJl)
 - 1177 BC: The Year Civilization Collapsed (Eric Cline, PhD) [link](https://www.youtube.com/watch?v=bRcu-ysocX4&pp=ygUnMTE3NyBiYyB0aGUgeWVhciBjaXZpbGl6YXRpb24gY29sbGFwc2Vk)
+- Jim Simons: A Short Story of My Life and Mathematics (2022) [link](https://www.youtube.com/watch?v=CTQcLi6SpX8)
 
 ## Markets
 - Shinoji Research [link](http://shinoji-research.com)
@@ -136,6 +137,9 @@
 - Scott Phillips Trading Thread [link](https://x.com/ScottPh77711570/status/1777284341535818103)
 - Bitcoin, Currencies, and Fragility by Taleb [link](https://www.fooledbyrandomness.com/BTC-QF.pdf)
 - How blockchain takes us back to medieval times [link](https://www.ft.com/content/5ec32986-1872-3828-9f67-465019d97044)
+- Rust for Crypto HFT [link](https://x.com/chameleon_jeff/status/1633220145035485184)
+- Shannon's Demon [link](https://x.com/10kdiver/status/1451999570443964417)
+- A Dozen Lessons on Investing from Ed Thorp [link](https://25iq.com/2017/07/22/a-dozen-lessons-on-investing-from-ed-thorp/)
 
 ## Biology
 - Memantine: a NMDA receptor antagonist that improves memory by restoration of homeostasis in the glutamatergic system - too little activation is bad, too much is even worse [link](https://www.sciencedirect.com/science/article/abs/pii/S0028390807002298?via%3Dihub)
